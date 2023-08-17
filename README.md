@@ -12,6 +12,7 @@ _Note: Instacart is a real company that’s made their data available online. Ho
 
 ## Data
 [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
+[InstaCart Orders & Products Datasets](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 
 
