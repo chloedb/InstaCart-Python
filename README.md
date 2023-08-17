@@ -11,7 +11,7 @@ InstaCart recognizes the need to establish a targeted marketing strategy for dif
 _Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement._
 
 ## Data
-[Data Dictionary] (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
+[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
 
 
 
