@@ -19,6 +19,7 @@ _Note: Instacart is a real company that’s made their data available online. Ho
 
 [InstaCart Orders & Products Datasets](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
+_Note: Fabricated data from Career Foundry is unavailable for upload because of the size limitations of GitHub_
 
 
 
